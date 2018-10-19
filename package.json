@@ -1,0 +1,24 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "(index.js) index.html",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanship/frontendProj.git"
+  },
+  "author": "cspark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanship/frontendProj/issues"
+  },
+  "homepage": "https://github.com/chanship/frontendProj#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
