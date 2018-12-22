@@ -1,5 +1,6 @@
-## CSCI571-HW9
-EventExplorer iOS Application
+## EventExplorer
+CSCI571-HW9
+iOS Application
 
 : iOS Mobile application, which allows users to search for event information, ticketing information, saveevents as favorites, and post on Twitter.
 
